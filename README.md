@@ -6,4 +6,4 @@
 - 😄 My pronouns are **he/him**.
 - ⚡ Fun fact: I have a pet dog named Chase.
 
--[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+- [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
