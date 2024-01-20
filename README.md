@@ -8,6 +8,6 @@
 
 <br>
 
-<kbd> <br> [Title][Link]🐤 <br> </kbd>
+<kbd> <br> [Title] 🐤 <br> </kbd>
 
 <br>
