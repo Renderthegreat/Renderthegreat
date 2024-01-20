@@ -8,21 +8,6 @@
 
 <br>
 
-<kbd> <br> [Title][Link] <br> </kbd>
+<kbd> <br> [https://renderlabs.cloud][Link] <br> </kbd>
 
 <br>
-
-```markdown
-<kbd> <br> [Title][Link] <br> </kbd>
-```
-
-```markdown
-[Link]: # 'Link with example title.'
-```
-
-<br>
-
-
-<!---------------------------------------------------------------------------->
-
-[Link]: #
