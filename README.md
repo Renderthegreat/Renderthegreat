@@ -8,6 +8,6 @@
 
 <br>
 
-<kbd> <br> [Title] 🐤 <br> </kbd>
+<kbd> <br> [Title]: 'a' <br> </kbd>
 
 <br>
