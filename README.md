@@ -6,8 +6,6 @@
 - 😄 My pronouns are **he/him**.
 - ⚡ Fun fact: I have a pet dog named Chase.
 
-<br>
 
-<br> [Title]: 'a' <br>
-
-<br>
+> :Buttons
+> > :Button label=GitHub, url=https://github.com
