@@ -8,6 +8,6 @@
 
 <br>
 
-<kbd> <br> [Title]: 'a' <br> </kbd>
+<br> [Title]: 'a' <br>
 
 <br>
