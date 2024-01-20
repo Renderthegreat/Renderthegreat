@@ -20,7 +20,10 @@
 ```
 ```
 +-------------------------------------------------+
-| **TODO**  work on pixel paradise game                |
+|
+```
+**TODO**
+```  work on pixel paradise game                |
 |                                                 |
 |                                                 |
 |                                                 |
