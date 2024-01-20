@@ -31,4 +31,4 @@
 +-------------------------------------------------+
 ```
 
-[Image](https://renderlabs.cloud/new.png)
+![Image](https://renderlabs.cloud/new.png)
