@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I have a pet dog named Chase.
 
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+> RENDERLABS
+> [Subscribe to our newsletter](#){ .md-button }
