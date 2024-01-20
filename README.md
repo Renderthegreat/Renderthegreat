@@ -11,8 +11,8 @@
 > [RENDERLABS:CLOUD☁️](https://renderlabs.cloud)
 >
 
-> 🌥️  ☁️ ☁️☁️      ☁️ \n
->                  🎈
+> 🌥️  ☁️ ☁️☁️      ☁️  <br>
+>                  🎈   <br>
 >   🐦          🦜
 >       🎈
 >              🎈
