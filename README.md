@@ -6,4 +6,23 @@
 - 😄 My pronouns are **he/him**.
 - ⚡ Fun fact: I have a pet dog named Chase.
 
-[Link]: # 'https://renderlabs.cloud'
+<br>
+
+<kbd> <br> [Title][Link] <br> </kbd>
+
+<br>
+
+```markdown
+<kbd> <br> [Title][Link] <br> </kbd>
+```
+
+```markdown
+[Link]: # 'Link with example title.'
+```
+
+<br>
+
+
+<!---------------------------------------------------------------------------->
+
+[Link]: #
