@@ -32,3 +32,5 @@
 ```
 
 ![Image](https://renderlabs.cloud/new.png)
+<img src="https://renderlabs.cloud/new.png" alt="alt text" width="200" height="150"/>
+
