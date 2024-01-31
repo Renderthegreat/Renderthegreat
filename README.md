@@ -20,9 +20,9 @@
 ```
 ```
 +-------------------------------------------------+
-|  TODO                                            |
-|  work on pixel paradise game                    |
-|                                                 |
+|  TODO                                           |
+|  - work on pixel paradise game                  |
+|  - work on nexus.server.js                      |
 |                                                 |
 |                                                 |
 |                                                 |
