@@ -1,4 +1,6 @@
- <kbd> <br> 👋 Hello, I'm @Renderthegreat! <br> </kbd>
+<img src="https://renderlabs.cloud/new.png" alt="alt text" width="50" height="50"/>
+
+<kbd> <br> 👋 Hello, I'm @Renderthegreat! <br> </kbd>
 
 - 👀 I have a keen interest in **web development**.
 - 🌱 I'm currently focused on enhancing my project, renderlabs.cloud.
@@ -32,6 +34,6 @@
 ```
 
 
-<img src="https://renderlabs.cloud/new.png" alt="alt text" width="50" height="50"/>
+
 
 
