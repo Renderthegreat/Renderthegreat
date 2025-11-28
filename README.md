@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Brendan Lucas
 
-> "Strong. Smart. And just getting started."
-
 I'm a young developer, systems thinker, and language designer working on tools that challenge how we think about programming, file formats, and automation. I believe software should be **lightweight**, **transparent**, and **scalable**—and that most modern stacks are way too bloated for what they do.
 
 ## What I'm Building
