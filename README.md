@@ -29,7 +29,7 @@ CORAL is architecture-independent, which makes it suitable for portable build ar
 ### SV3D – Scalable Vector 3D Format.
 I'm redefining 3D asset pipelines with SV3D:
 - Infinite precision vector shapes rendered at runtime.
-- ~1000x smaller files than traditional formats.
+- ~(1000+)x smaller files than traditional formats.
 - Optimized for games and real-time environments.
 - Dynamic texturing with SVG-like patterns.
 
