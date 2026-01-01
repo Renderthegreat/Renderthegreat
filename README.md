@@ -24,7 +24,7 @@ Like Z#, CORAL is configurable through Luau, allowing the compilation pipeline t
 
 CORAL is architecture-independent, which makes it suitable for portable build artifacts. These artifacts can be reused as build checkpoints, enabling incremental builds and reducing total compilation time across targets.
 
-⸻
+---
 
 ### SV3D – Scalable Vector 3D Format.
 I'm redefining 3D asset pipelines with SV3D:
