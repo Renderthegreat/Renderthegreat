@@ -6,10 +6,10 @@ I'm a young developer, systems thinker, and language designer working on tools t
 
 ### Z# – The Low-Level, High-Power Language.
 Z# is my from-scratch programming language that blends system-level control with modern syntax.  
-Think TypeScript meets Assembly, but with:
-- **User-defined types as first-class citizens**
-- **No runtime—compile directly to native binaries via `.iz` files**
-- A modular feature system, so only what you need gets compiled
+
+- **User-defined types as first-class citizens**.
+- **No runtime—compile directly to native binaries via `.iz` files**.
+- A modular feature system, so only what you need gets compiled.
 
 [Documentation](https://docs.zsharp.dev) · `zs emit` for bare-metal builds.
 
@@ -57,6 +57,6 @@ Targeted at students, open-source soon. (*Not* your average homework helper.)
 
 ## Philosophy.
 
-- Minimalism isn’t about less code. It’s about **less *waste*.**
+- Minimalism isn’t about less code. It’s about **less *waste***.
 - The best code is the one that **respects the hardware**.
-- If you can build it better, **build it.** Even if no one’s watching.
+- If you can build it better, **build it**. Even if no one’s watching.
